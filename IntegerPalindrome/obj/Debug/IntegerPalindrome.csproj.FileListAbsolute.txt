@@ -1,0 +1,5 @@
+C:\Users\jeferrie\Documents\Visual Studio 2017\Projects\LeetCode\IntegerPalindrome\bin\Debug\IntegerPalindrome.exe.config
+C:\Users\jeferrie\Documents\Visual Studio 2017\Projects\LeetCode\IntegerPalindrome\bin\Debug\IntegerPalindrome.exe
+C:\Users\jeferrie\Documents\Visual Studio 2017\Projects\LeetCode\IntegerPalindrome\bin\Debug\IntegerPalindrome.pdb
+C:\Users\jeferrie\Documents\Visual Studio 2017\Projects\LeetCode\IntegerPalindrome\obj\Debug\IntegerPalindrome.exe
+C:\Users\jeferrie\Documents\Visual Studio 2017\Projects\LeetCode\IntegerPalindrome\obj\Debug\IntegerPalindrome.pdb
