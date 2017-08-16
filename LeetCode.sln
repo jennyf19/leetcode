@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeReverse", "LeetCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerPalindrome", "IntegerPalindrome\IntegerPalindrome.csproj", "{A22EC2EB-32D3-41DB-8044-0767E24DE532}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCircle", "RobotCircle\RobotCircle.csproj", "{B57E28AC-F1DB-49C1-B721-509CD8D5D521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A22EC2EB-32D3-41DB-8044-0767E24DE532}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A22EC2EB-32D3-41DB-8044-0767E24DE532}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A22EC2EB-32D3-41DB-8044-0767E24DE532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57E28AC-F1DB-49C1-B721-509CD8D5D521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57E28AC-F1DB-49C1-B721-509CD8D5D521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57E28AC-F1DB-49C1-B721-509CD8D5D521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57E28AC-F1DB-49C1-B721-509CD8D5D521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

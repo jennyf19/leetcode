@@ -1,0 +1,6 @@
+C:\git\LeetCode\leetcode\RobotCircle\bin\Debug\RobotCircle.exe.config
+C:\git\LeetCode\leetcode\RobotCircle\bin\Debug\RobotCircle.exe
+C:\git\LeetCode\leetcode\RobotCircle\bin\Debug\RobotCircle.pdb
+C:\git\LeetCode\leetcode\RobotCircle\obj\Debug\RobotCircle.csprojResolveAssemblyReference.cache
+C:\git\LeetCode\leetcode\RobotCircle\obj\Debug\RobotCircle.exe
+C:\git\LeetCode\leetcode\RobotCircle\obj\Debug\RobotCircle.pdb
